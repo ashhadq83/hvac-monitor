@@ -1,0 +1,8 @@
+[
+  {"id": "t1", "name": "DEMO: AirFlow Pros HVAC", "phone": "403-555-0101",
+   "specialties": ["airflow"], "note": "Filters, ducts and vents (demo contact, replace with a real local business)"},
+  {"id": "t2", "name": "DEMO: Comfort Temp Services", "phone": "403-555-0102",
+   "specialties": ["heating_cooling"], "note": "Furnaces, air conditioners, refrigerant (demo contact, replace with a real local business)"},
+  {"id": "t3", "name": "DEMO: Motor and Fan Repair Co.", "phone": "403-555-0103",
+   "specialties": ["motor_fan"], "note": "Fan motors, bearings, mounts (demo contact, replace with a real local business)"}
+]

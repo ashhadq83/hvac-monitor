@@ -1,0 +1,2 @@
+# Installed with apt on Raspberry Pi OS (see setup.sh):
+# python3-flask  python3-smbus  python3-gpiozero  i2c-tools
